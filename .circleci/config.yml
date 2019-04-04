@@ -7,7 +7,7 @@
 # and then update DOCKER_IMAGE_VERSION at the top of the following files:
 # * cimodel/pytorch_build_definitions.py
 # * cimodel/caffe2_build_definitions.py
-
+repo_token: QGQW9msSUI45Yaw8LecJFAuxYBpc1dEgi
 docker_config_defaults: &docker_config_defaults
   user: jenkins
   aws_auth:
